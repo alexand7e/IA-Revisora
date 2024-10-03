@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+
+# Ambiente Virtual
+.venv/
+langchain_env/
+*.venv
+
+# Streamlit cache
+.streamlit/
+
+# Configurações locais
+.DS_Store
+.vscode/
